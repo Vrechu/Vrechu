@@ -2,7 +2,7 @@
 - I am mainly a videogame programmer/designer.
 - Right now I am studying Creative Media and Game Technologies at Saxion University of Applied Sciences in Enschede.
 - Contact info:
-- Email: freek.mich@gnail.com
+- Email: freek.mich@gmail.com
 - LinkedIn: https://www.linkedin.com/in/freek-michielsen-607ba0162/
 
 <!---

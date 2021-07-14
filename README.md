@@ -4,7 +4,6 @@
 - Contact info:
 - Email: freek.mich@gmail.com
 - LinkedIn: https://www.linkedin.com/in/freek-michielsen-607ba0162/
-- Portfolio: https://freekmichielsen.netlify.app
 
 <!---
 Vrechu/Vrechu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
